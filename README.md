@@ -1,5 +1,3 @@
-It seems you want to generate a `README.md` file for your project. However, I don't see a `Dockerfile` in the provided context. If you have a `Dockerfile`, please share its content or confirm its existence so I can include relevant details. For now, I'll generate a basic `README.md` based on the provided project structure and functionality.
-
 ```markdown
 # Spring Boot Practice Project
 
